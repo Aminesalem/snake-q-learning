@@ -1,0 +1,34 @@
+{'games': 1500, 'size': 10, 'features': 'basic', 'tag': 'basic', 'hidden': 128, 'lr': 0.001, 'gamma': 0.9, 'eps_games': 600, 'seed': 0}
+random agent, 200 games: mean score 0.17, best 3
+game 50: mean score of last 50 = 0.16, best 2, epsilon 0.92 | 0.0 min
+game 100: mean score of last 50 = 0.30, best 2, epsilon 0.83 | 0.0 min
+game 150: mean score of last 50 = 0.54, best 3, epsilon 0.75 | 0.0 min
+game 200: mean score of last 50 = 0.96, best 4, epsilon 0.67 | 0.0 min
+game 250: mean score of last 50 = 1.10, best 5, epsilon 0.58 | 0.0 min
+game 300: mean score of last 50 = 1.34, best 5, epsilon 0.50 | 0.1 min
+game 350: mean score of last 50 = 1.84, best 7, epsilon 0.42 | 0.1 min
+game 400: mean score of last 50 = 2.66, best 10, epsilon 0.33 | 0.1 min
+game 450: mean score of last 50 = 3.34, best 12, epsilon 0.25 | 0.1 min
+game 500: mean score of last 50 = 5.32, best 16, epsilon 0.17 | 0.1 min
+game 550: mean score of last 50 = 8.06, best 22, epsilon 0.08 | 0.2 min
+game 600: mean score of last 50 = 12.00, best 26, epsilon 0.01 | 0.2 min
+game 650: mean score of last 50 = 15.44, best 36, epsilon 0.01 | 0.3 min
+game 700: mean score of last 50 = 17.24, best 36, epsilon 0.01 | 0.3 min
+game 750: mean score of last 50 = 18.04, best 36, epsilon 0.01 | 0.4 min
+game 800: mean score of last 50 = 17.24, best 36, epsilon 0.01 | 0.5 min
+game 850: mean score of last 50 = 14.96, best 36, epsilon 0.01 | 0.5 min
+game 900: mean score of last 50 = 15.76, best 36, epsilon 0.01 | 0.6 min
+game 950: mean score of last 50 = 16.46, best 36, epsilon 0.01 | 0.6 min
+game 1000: mean score of last 50 = 15.46, best 36, epsilon 0.01 | 0.7 min
+game 1050: mean score of last 50 = 16.14, best 36, epsilon 0.01 | 0.7 min
+game 1100: mean score of last 50 = 13.96, best 43, epsilon 0.01 | 0.8 min
+game 1150: mean score of last 50 = 15.16, best 43, epsilon 0.01 | 0.8 min
+game 1200: mean score of last 50 = 14.98, best 43, epsilon 0.01 | 0.9 min
+game 1250: mean score of last 50 = 17.54, best 43, epsilon 0.01 | 1.0 min
+game 1300: mean score of last 50 = 14.74, best 43, epsilon 0.01 | 1.0 min
+game 1350: mean score of last 50 = 15.90, best 43, epsilon 0.01 | 1.1 min
+game 1400: mean score of last 50 = 15.58, best 43, epsilon 0.01 | 1.1 min
+game 1450: mean score of last 50 = 16.38, best 43, epsilon 0.01 | 1.2 min
+game 1500: mean score of last 50 = 15.14, best 43, epsilon 0.01 | 1.2 min
+trained agent, 100 games without exploration: mean score 17.62, best 39
+training time: 1.2 min
