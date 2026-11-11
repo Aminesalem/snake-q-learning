@@ -1,0 +1,2 @@
+largest relative difference between backprop and numerical gradient: 7.79e-08
+OK
